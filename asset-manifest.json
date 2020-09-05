@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra24__2.2__layouts/static/css/main.67eaab6e.chunk.css",
+    "main.js": "/ra24__2.2__layouts/static/js/main.6b9befa1.chunk.js",
+    "main.js.map": "/ra24__2.2__layouts/static/js/main.6b9befa1.chunk.js.map",
+    "runtime-main.js": "/ra24__2.2__layouts/static/js/runtime-main.f616550b.js",
+    "runtime-main.js.map": "/ra24__2.2__layouts/static/js/runtime-main.f616550b.js.map",
+    "static/js/2.6b8a7b87.chunk.js": "/ra24__2.2__layouts/static/js/2.6b8a7b87.chunk.js",
+    "static/js/2.6b8a7b87.chunk.js.map": "/ra24__2.2__layouts/static/js/2.6b8a7b87.chunk.js.map",
+    "index.html": "/ra24__2.2__layouts/index.html",
+    "precache-manifest.9552c4f7969e818a61a6cf32f6410a5c.js": "/ra24__2.2__layouts/precache-manifest.9552c4f7969e818a61a6cf32f6410a5c.js",
+    "service-worker.js": "/ra24__2.2__layouts/service-worker.js",
+    "static/css/main.67eaab6e.chunk.css.map": "/ra24__2.2__layouts/static/css/main.67eaab6e.chunk.css.map",
+    "static/js/2.6b8a7b87.chunk.js.LICENSE.txt": "/ra24__2.2__layouts/static/js/2.6b8a7b87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f616550b.js",
+    "static/js/2.6b8a7b87.chunk.js",
+    "static/css/main.67eaab6e.chunk.css",
+    "static/js/main.6b9befa1.chunk.js"
+  ]
+}
