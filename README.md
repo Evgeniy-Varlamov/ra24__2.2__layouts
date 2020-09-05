@@ -1,0 +1,2 @@
+[GithubPage](https://evgeniy-varlamov.github.io/ra24__2.2__layouts/)
+[![Build status](https://ci.appveyor.com/api/projects/status/p1j36sb4rqm1cdwt?svg=true)](https://ci.appveyor.com/project/Evgeniy-Varlamov/ra24-2-2-layouts)  
